@@ -1,8 +1,8 @@
 # Flapbase
 
-**The no-code platform for goal-directed AI agents.**
+**The autonomous agent platform for business operations.**
 
-Flapbase lets teams deploy autonomous agents that understand business goals, operate on structured data, and work across your existing tools — without writing code.
+Flapbase lets teams deploy agents that understand business goals, operate on structured data, and work across your existing tools — autonomously and continuously.
 
 Built on [Open Business Protocol](https://openbusinessprotocol.org).
 

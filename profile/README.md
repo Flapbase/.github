@@ -2,6 +2,6 @@
 
 A workspace for growing your business.
 
-Tools to build, check, publish and run websites and marketing for small businesses. Use them from your own projects, from AI agents, or in Flapbase Cloud.
+Open source. Use it with your AI agents, from your own code, or in Flapbase Cloud. It grows every week.
 
 [github.com/Flapbase/flapbase](https://github.com/Flapbase/flapbase) ・ [flapbase.com](https://flapbase.com)
